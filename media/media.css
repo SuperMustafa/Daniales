@@ -1,0 +1,15 @@
+@media(max-width:768px){
+    .navbar{
+        background-color: white;
+    }
+}
+
+
+
+ @media(min-width:768px) {
+    .container ul li:hover a::before {
+        width: 80%;
+        color: black;
+    }
+
+}
